@@ -39,3 +39,5 @@
   22 git restore testing.py
   23 git status
   24 clear
+
+This is some new changes
