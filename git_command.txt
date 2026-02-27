@@ -39,3 +39,24 @@
   22 git restore testing.py
   23 git status
   24 clear
+  27 git status
+  28 git add git command.txt
+  29 git add git_command.txt
+  30 git status
+  31 git commit -m "added git commands"
+  32 git status
+  29 git add git_command.txt
+  30 git status
+  31 git commit -m "added git commands"
+  32 git status
+  33 git remote add origin https://github.com/mak87ec-art/Github-for-devops-workshop.git
+  34 git remote -v
+  35 git remote set-url origin https://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@github.com/mak87ec-art/Github-for-devops-workshop.git
+  36 git remote -v
+  37 git push origin master
+  38 git push origin master
+  39 git add .
+  40 git commit -m "added git commands"
+  41 git push origin master
+  42 cd ..
+  43 git clone https://github.com/devopsinsiders/azure-aws-gcp-devsecops-mlops-batch-18.git
